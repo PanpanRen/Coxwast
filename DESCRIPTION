@@ -1,0 +1,17 @@
+Package: Coxwast
+Type: Package
+Title: Subgroup testing methods for change-plane Cox models
+Version: 1.0.1
+Author: Panpan Ren [aut,cre]
+Maintainer: Panpan Ren <panpanren@stu.sufe.edu.cn>
+Description: Weighted-sum-based subgroup testing method is proposed for change-plane Cox models. Different testing methods are also provided in this package. 
+License: GPL (>= 2)
+Imports: survival, simsurv, boot, mvtnorm, parallel
+Depends: R (>= 3.2.0)
+LazyData: true
+NeedsCompilation: yes
+Repository: github
+URL: https://github.com/PanpanRen/Coxwast
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1

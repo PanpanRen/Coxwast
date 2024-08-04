@@ -1,0 +1,4 @@
+import('survival', 'simsurv', 'boot', 'mvtnorm', 'parallel')
+useDynLib(Coxwast, .registration=TRUE)
+exportPattern("^[[:alpha:]]+")
+export(ST, SUP, WAST, generate_cox_data, gam.init)
