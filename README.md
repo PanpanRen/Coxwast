@@ -11,7 +11,7 @@ Weighted-sum-based subgroup testing method is proposed for change-plane Cox mode
 
 # Usage
 
-   - [x] [Coxwast-manual.pdf](https://github.com/PanpanRen/Coxwast/inst/Coxwast-manual.pdf) ---------- Details of the usage of the package.
+   - [x] [Coxwast-manual.pdf](https://github.com/PanpanRen/Coxwast/tree/main/inst/Coxwast-manual.pdf) ---------- Details of the usage of the package.
 # Example
     library(Coxwast)
     library(survival)
@@ -40,4 +40,4 @@ Deng, Y., Cai, J., and Zeng, D. (2022). Maximum Likelihood Estimation for Cox Pr
 
 Kang, S., Lu, W., and Song, R. (2017). Subgroup detection and sample size calculation with proportional hazards regression for survival data. Statistics in medicine, 36(29), 4646-4659.
 
-Ren, P., Zhang, X., Li, Y., and Liu, X. (2024). Weighted-sum-based subgroup testing procedure for change-plane Cox models. Manuscript.
+Ren, P., Li, Y., Zhang, X., Qiu, T., and Liu, X. (2024). Subgroup testing for change-plane Cox models in heterogeneous credit risk data. Manuscript.
